@@ -56,7 +56,8 @@ A smartphone sends voice commands via Bluetooth, and the Arduino processes these
 
 ## 🔌 Circuit Diagram
 
-![Circuit](circuit.jpg)
+![Grp car](https://github.com/user-attachments/assets/d6755f91-f415-4b66-b80b-16ef02884f83)
+
 
 ---
 
